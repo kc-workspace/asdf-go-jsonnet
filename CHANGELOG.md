@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/kc-workspace/asdf-go-jsonnet/compare/v1.0.0...v1.0.1) (2023-12-03)
+
+
+### Improvements
+
+* update plugin from template [autocommit] ([85bdd2c](https://github.com/kc-workspace/asdf-go-jsonnet/commit/85bdd2c262c82b45579a06047f5c7bea50e74bff))
+
 ## 1.0.0 (2023-11-06)
 
 
